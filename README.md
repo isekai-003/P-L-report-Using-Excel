@@ -4,7 +4,9 @@ P&L Report - Excel-Project
 2. Conduct a comprehensive comparison between market performance and sales targets
    
 ⦁	Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
+
 ⦁	Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
+
 ⦁	Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 Finance Report :
@@ -22,6 +24,7 @@ Technical & Soft Skills:
 ⦁	[x]	Establishing data model relationships with Power Pivot.
 ⦁	[x]	Proficiency in incorporating supplementary data into an existing data model.
 ⦁	[x]	Utilizing DAX to create calculated columns.
+
 Soft Skills:
 ⦁	[x]	Refined understanding of Sales & Finance Reports
 ⦁	[x]	Designing user-centric reports with empathy in mind.
