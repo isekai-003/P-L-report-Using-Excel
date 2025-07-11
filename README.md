@@ -2,7 +2,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/isekai-003/P-L-report-UsingExcel/blob/5590a9ccc318f953ef18e15f37472811b0311cfa/Customer%20Net%20Sales%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/isekai-003/P-L-report-Using-Excel/blob/60db2a6f8302179559fb013b8a250e024594827f/Customer%20Net%20Sales%20Performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/isekai-003/P-L-report-Using-Excel/blob/5590a9ccc318f953ef18e15f37472811b0311cfa/Market%20vs%20Target%20Performance%20Report.pdf)_
 
